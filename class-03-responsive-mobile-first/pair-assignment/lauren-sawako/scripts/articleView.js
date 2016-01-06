@@ -62,6 +62,10 @@ articleView.setTeasers = function() {
   });
 };
 
+$('.icon-menu').on('click touchstart', function() {
+  $('nav ul').slideToggle();
+})
+
 $(document).ready(function() {
   articleView.populateFilters();
   articleView.handleCategoryFilter();
