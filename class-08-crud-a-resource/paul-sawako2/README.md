@@ -11,7 +11,7 @@ Crucially, you'll need to trace through the app logic, and all those callback fu
 
 Look through the TODOs, which signify areas of the code with varying levels of completeness, and focus initially on writing correct SQL. Practice in the web inspector.
 
-Since there is no portfolio assignment, see if you can reach any stretch goals. 
+Since there is no portfolio assignment, see if you can reach any stretch goals.
 
 ## User Stories: Stretch Goals
  - As a developer, I want a more flexible editor page (editor/articles.html) that can add, update, or delete entries.
